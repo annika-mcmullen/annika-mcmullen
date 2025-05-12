@@ -1,7 +1,7 @@
 # Hello World!
 
 ## 💫 About Me:
-<br>I recently graduated with a B.S. in Computer Science from WGU, where I focused on artificial intelligence, backend architecture, and full-stack product development. Since then, I’ve been leading engineering at an early-stage startup focused on AI-powered insights and growth paths for founders of startups. 
+<br>I recently graduated with a B.S. in Computer Science from Western Governors University, where I focused on artificial intelligence, backend architecture, and full-stack product development. Since then, I’ve been leading engineering at an early-stage startup focused on AI-powered insights and growth paths for founders of startups. 
 <br>
 <br>
 My work spans backend systems (FastAPI, PostgreSQL), frontend interfaces (Next.js, React), and data integrations (calendar, journaling, wearable APIs). I’m currently building out an ML pipeline that turns raw behavioral and contextual data into actionable feedback. This is designed to help users grow, reduce burnout, and make better decisions. <br>I love having an opportunity to meet others, so, feel free to reach out and say hi!
